@@ -1,3 +1,3 @@
 # notion-job-temp
-Schedule management in job hunting
+Schedule management by Notion in job hunting
 
