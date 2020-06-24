@@ -1,2 +1,3 @@
-# job-temp
-Job hunting Template in Notion
+# notion-job-temp
+Schedule management in job hunting
+
