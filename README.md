@@ -4,13 +4,15 @@ Schedule management by Notion in job hunting
 
 ## Appearance
 
-![appearance](assets/images/appearance.png)
+<!-- ![appearance](assets/images/appearance.png) -->
+<img src="assets/images/appearance.png" width="400">
 
 ## Install
 
 Please click ``duplicate`` button.
 
-![install](assets/images/install.png)
+<!-- ![install](assets/images/install.png) -->
+<img src="assets/images/install.png" width="400">
 
 ## Usage
 
@@ -18,4 +20,5 @@ Please click ``duplicate`` button.
 
 企業まとめ → 企業追加
 
-![add_a_company](assets/images/demo1.gif)
+<!-- ![add_a_company](assets/images/demo1.gif) -->
+<img src="assets/images/demo1.gif" width="400">
